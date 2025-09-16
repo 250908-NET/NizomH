@@ -15,10 +15,10 @@ namespace _5_OperatorsChallenge.Tests
         };
         public static readonly IEnumerable<object[]> _pairNumbers = new List<object[]>
         {
-            new object[] {1,2},
-            new object[] {2,3},
-            new object[] {3,4},
-            new object[] {4,5}
+            new object[] {-1,2},
+            new object[] {-2,3},
+            new object[] {-3,4},
+            new object[] {-4,5}
         };
 
         [Theory]
